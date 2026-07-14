@@ -1,0 +1,9 @@
+anthropic
+pandas
+python-dotenv
+jupyter
+requests
+openpyxl
+streamlit
+langfuse
+opentelemetry-instrumentation-anthropic
